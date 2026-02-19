@@ -8,7 +8,7 @@ Implements a complete Service Management module with API integration.
 
 ## 📱 Download APK
 
-[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](YOUR_DRIVE_LINK_HERE)
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://drive.google.com/file/d/10w5JuxDROhk4_rh7OLBZi5gBz3bgzXRl/view?usp=sharing)
 
 ---
 
